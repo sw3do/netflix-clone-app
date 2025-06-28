@@ -140,10 +140,6 @@ lib/
 
 ---
 
-## 📱 Screenshots
-
-> **Note**: Add screenshots of your app here to showcase the interface
-
 ### Home Screen
 - Hero banner with featured content
 - Multiple content rows with horizontal scrolling
